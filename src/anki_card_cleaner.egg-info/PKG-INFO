@@ -1,17 +1,16 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: anki-card-cleaner
 Version: 0.0.1
 Summary: A utility to clean Anki card text for NLP processing.
-Author-email: User <user@example.com>
-Project-URL: Homepage, https://github.com/example/anki-card-cleaner
-Project-URL: Bug Tracker, https://github.com/example/anki-card-cleaner/issues
+Author-email: Charbel Marche <charbelmarche33@gmail.com>
+Project-URL: Homepage, https://github.com/NovaCards/anki-card-cleaner
+Project-URL: Bug Tracker, https://github.com/novacards/anki-card-cleaner/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Dynamic: license-file
 
 # Anki Card Cleaner
 
